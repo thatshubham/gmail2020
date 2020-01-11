@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+   
+    "name": "HTML Gmail Change",
+    "version": "1.0",
+    "description": "lets change some gmail",
+    "background": {"scripts":["background.js"]},
+    
+    
+    "permissions": ["webRequest", "webRequestBlocking", "https://mail.google.com/mail/u/*", "://gmail.com/*"]
+   
+}
