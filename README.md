@@ -1,3 +1,3 @@
 ### gmail 2020
 
-* Incoming Changes include a modern looking basic CSS
+* Switch to html gmail and apply the custom CSS here for a modern sleek look.
